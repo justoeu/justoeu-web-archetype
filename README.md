@@ -1,7 +1,7 @@
 # justoeu-web-archetype
 This Project was created to create Java Web Applications using maven
 
-## Librarys
+## Libraries
 The Project Template includes the new libs:
 
 * Servlet API 3.1
